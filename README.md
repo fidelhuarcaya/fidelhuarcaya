@@ -12,7 +12,7 @@
 ✉️ &nbsp;You can shoot me an email at fidelhuarcaya20@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://fidelhuarcaya.dev/assets/files/CV%20FIDEL%20HUARCAYA.pdf) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
 
 
 ### 🛠 &nbsp;Tech Stack
