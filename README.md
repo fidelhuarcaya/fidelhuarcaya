@@ -1,7 +1,7 @@
 
 ### <div align="center">Hey there!👋 I am <a href="https://www.fidelhuarcaya.dev">Fidel</a>, a software developer 👨‍💻</div>  
   
-- 🌍  I'm based in Istanbul  
+- 🌍  I'm based in Lima 
 - 🖥️  See my portfolio at [fidelhuarcaya.dev](https://fidelhuarcaya.dev)  
 - 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 - 📄 &nbsp;Please have a look at my [resume](https://fidelhuarcaya.dev/assets/files/CV%20FIDEL%20HUARCAYA.pdf) for more details about me. I'm open to feedback and suggestions!
